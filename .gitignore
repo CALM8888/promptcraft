@@ -1,0 +1,20 @@
+# Web build artifacts
+promptcraft-web/.netlify
+promptcraft-web/node_modules/
+promptcraft-web/dist/
+promptcraft-web/release/
+
+# Android build outputs
+promptcraft-android/.gradle/
+promptcraft-android/.kotlin/
+promptcraft-android/.idea/
+promptcraft-android/build/
+promptcraft-android/app/build/
+promptcraft-android/local.properties
+*.apk
+
+# Git worktrees
+.worktrees/
+
+# Local archives and exported backups
+_archive/
